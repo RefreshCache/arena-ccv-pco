@@ -1,0 +1,1 @@
+Sync Arena users with Planning Center Online (PCO) so that contact information for Arena and PCO users is consistent across both systems. Also provides a single sign-on experience for users so that they only need to know their Arena login to access PCO.
